@@ -1,4 +1,4 @@
-[![GitHub Super-Linter](https://github.com/davidtaing/nextjs-sandbox/actions/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![GitHub Super-Linter](https://github.com/davidtaing/nextjs-sandbox/actions/workflows/linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
